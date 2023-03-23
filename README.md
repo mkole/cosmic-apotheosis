@@ -4,19 +4,13 @@
 
 Experiment using SVG and Sass.
 
+## Adapted from:
 
-### Adapted from:
 https://codepen.io/robdimarzo/pen/VqjvqR
 
+## License
 
-[//]: # (Free Software)
-<div align="center">
-  <br>
-  <br>
+<a href="https://www.gnu.org/licenses/agpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/AGPLv3_Logo.svg" height="100px" /></a>
 
-  <a href="https://github.com/michaelkolesidis/made-with-linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Made_with_Linux.png/240px-Made_with_Linux.png"></a>
-</div>
-<br>                                                      
-<div align="center">
-  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 90px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
-</div>
+Copyright (c) 2023 Michael Kolesidis<br>
+Licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
